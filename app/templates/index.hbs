@@ -1,2 +1,13 @@
 {{page-title "Index"}}
+
+
+<h1>Index</h1>
+
+<ul>
+  {{#each @model as |marker|}}
+    <li>{{marker.title}} ({{marker.lat}}, {{marker.long}})</li>
+  {{/each}}
+</ul>
+
+
 {{outlet}}
