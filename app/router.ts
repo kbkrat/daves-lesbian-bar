@@ -7,5 +7,9 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function () {
-  // Add route declarations here
+  this.route('narrators');
+  this.route('sound-journey');
+  this.route('sound-map');
+  this.route('about');
+  this.route('get-involved');
 });
