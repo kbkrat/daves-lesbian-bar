@@ -1,0 +1,6 @@
+{{#if this.showText}}
+  <div class="prose w-full p-4">
+    {{markdown-to-html this.markdown}}
+    {{yield}}
+  </div>
+{{/if}}
