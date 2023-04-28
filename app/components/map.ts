@@ -8,15 +8,15 @@ interface MapComponentSignature {
 }
 
 export default class MapComponent extends Component<MapComponentSignature> {
-  get lat(){
+  get lat() {
     return 40.748637;
   }
 
-  get lng(){
+  get lng() {
     return -73.936503;
   }
 
-  get zoom(){
+  get zoom() {
     return 12;
   }
 }

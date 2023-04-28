@@ -1,0 +1,32 @@
+<Menu as |menu|>
+  <PopperJS as |reference popover|>
+    <menu.Button
+      {{reference}}
+      >
+      {{svg-jar "menu"}}
+    </menu.Button>
+    <menu.Items
+      {{on "click" menu.close}}
+      {{popover}}
+      class="
+        absolute right-6 z-50
+        origin-top-right
+        w-32
+        rounded
+        bg-green-600
+        "
+      as |items|>
+      <nav>
+        <ul class="flex flex-col">
+          {{#each this.items as |navItem|}}
+            <items.Item>
+              <li>
+                <LinkTo @route={{navItem.route}}>{{navItem.name}}</LinkTo>
+              </li>
+            </items.Item>
+          {{/each}}
+        </ul>
+      </nav>
+    </menu.Items>
+  </PopperJS>
+</Menu>
