@@ -1,0 +1,34 @@
+<LeafletMap
+  @lat={{this.lat}}
+  @lng={{this.lng}}
+  @zoom={{this.zoom}}
+
+
+...attributes as |layers|>
+  <layers.tile @url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"/>
+  {{#each @places as |place|}}
+    <layers.circle-marker
+      @lat={{place.lat}}
+      @lng={{place.long}}
+      @title={{place.title}}
+      as |marker|>
+        <marker.tooltip>
+          {{place.title}}
+        </marker.tooltip>
+        <marker.popup>
+          <div>
+            <h2 class="text-2xl">
+              {{place.title}}
+            </h2>
+            <p>{{place.location}}</p>
+            <p>{{place.address}}</p>
+            <audio controls>
+              <source src={{place.link}} type="audio/wav">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+        </marker.popup>
+    </layers.circle-marker>
+  {{/each}}
+
+</LeafletMap>

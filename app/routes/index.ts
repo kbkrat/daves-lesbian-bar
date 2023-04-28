@@ -1,6 +1,6 @@
 import Route from '@ember/routing/route';
 
-interface MapMarker {
+export interface MapMarker {
   title: string;
   lat: number;
   long: number;
