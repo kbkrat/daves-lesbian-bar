@@ -1,6 +1,6 @@
 import '@glint/environment-ember-loose';
+import { ComponentLike, HelperLike } from "@glint/template";
 import MarkdownToHtml from 'ember-cli-showdown/components/markdown-to-html';
-import { ComponentLike } from "@glint/template";
 
 export interface EmberLeafletLayers {
   tile: ComponentLike<{
@@ -36,6 +36,10 @@ export interface EmberLeafletLayers {
 declare module '@glint/environment-ember-loose/registry' {
   export default interface Registry {
     'markdown-to-html': typeof MarkdownToHtml;
+    'page-title': HelperLike<{
+      Args: { Positional: [title: string] };
+      Return: void;
+    }>;
     LeafletMap: ComponentLike<{
       Element: HTMLDivElement;
       Args: {
