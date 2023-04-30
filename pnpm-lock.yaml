@@ -216,6 +216,9 @@ devDependencies:
   ember-svg-jar:
     specifier: ^2.4.2
     version: 2.4.2
+  ember-template-imports:
+    specifier: ^3.4.2
+    version: 3.4.2
   ember-template-lint:
     specifier: ^5.7.2
     version: 5.7.2
