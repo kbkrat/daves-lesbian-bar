@@ -4,28 +4,34 @@ module.exports = {
   root: true,
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    ecmaVersion: 'latest',
+    ecmaVersion: 2018,
+    sourceType: 'module',
+    ecmaFeatures: {
+      legacyDecorators: true,
+    },
   },
   plugins: ['ember', '@typescript-eslint'],
   extends: [
     'eslint:recommended',
     'plugin:ember/recommended',
     'plugin:prettier/recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:@typescript-eslint/eslint-recommended',
   ],
   env: {
     browser: true,
   },
-  rules: {},
+  rules: {
+    'space-before-function-paren': [
+      'error',
+      {
+        anonymous: 'always',
+        asyncArrow: 'always',
+        named: 'never',
+      },
+    ],
+  },
   overrides: [
-    // ts files
-    {
-      files: ['**/*.ts'],
-      extends: [
-        'plugin:@typescript-eslint/eslint-recommended',
-        'plugin:@typescript-eslint/recommended',
-      ],
-      rules: {},
-    },
     // node files
     {
       files: [
@@ -39,12 +45,26 @@ module.exports = {
         './config/**/*.js',
         './lib/*/index.js',
         './server/**/*.js',
+        './tailwind.config.js',
+        './postcss.config.js',
       ],
+      parserOptions: {
+        sourceType: 'script',
+      },
       env: {
         browser: false,
         node: true,
       },
-      extends: ['plugin:n/recommended'],
+      plugins: ['node'],
+      extends: ['plugin:node/recommended'],
+      rules: {
+        // this can be removed once the following is fixed
+        // https://github.com/mysticatea/eslint-plugin-node/issues/77
+        'node/no-unpublished-require': 'off',
+        // These are JS files. They are ancillary to the structure of the app.
+        // They don't need fancy TS.
+        '@typescript-eslint/no-var-requires': 'off',
+      },
     },
     {
       // test files

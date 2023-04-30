@@ -26,3 +26,9 @@ export default class NavbarComponent extends Component {
     ];
   }
 }
+
+declare module '@glint/environment-ember-loose/registry' {
+  export default interface Registry {
+    Navbar: typeof NavbarComponent;
+  }
+}

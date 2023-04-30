@@ -21,6 +21,10 @@
   "include": [
     "app/**/*",
     "tests/**/*",
-    "types/**/*"
-  ]
+    "types/**/*",
+    "node_modules/@gavant/glint-template-types/types/ember-cli-showdown/markdown-to-html.d.ts",
+  ],
+  "glint": {
+    "environment": "ember-loose"
+  }
 }
