@@ -7,7 +7,7 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
-[View transcript]([link](https://docs.google.com/document/d/1fYFk-2VLUNjOHwhaygMcRy7fUrZ5QHEI/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true))
+[View transcript](https://docs.google.com/document/d/1fYFk-2VLUNjOHwhaygMcRy7fUrZ5QHEI/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
 
 ## Dave
 
@@ -15,7 +15,7 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
-[View transcript]([link](https://docs.google.com/document/d/1E5uBa-UiwIlYnuGW_pMK82508jOKVeUg/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true))
+[View transcript](https://docs.google.com/document/d/1E5uBa-UiwIlYnuGW_pMK82508jOKVeUg/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
 
 ## Benham
 
@@ -23,7 +23,7 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
-[View transcript]([link](https://docs.google.com/document/d/1b-prQe0snpmQwWAs9fcCZRHtEQGhLJHy/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true))
+[View transcript](https://docs.google.com/document/d/1b-prQe0snpmQwWAs9fcCZRHtEQGhLJHy/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
 
 ## Patricia
 
@@ -31,4 +31,4 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
-[View transcript]([link](https://docs.google.com/document/d/1QNqhmOZi87YR-vp4qDZniLaJlxCHPF3k/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)https://docs.google.com/document/d/1QNqhmOZi87YR-vp4qDZniLaJlxCHPF3k/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
+[View transcript](https://docs.google.com/document/d/1QNqhmOZi87YR-vp4qDZniLaJlxCHPF3k/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
