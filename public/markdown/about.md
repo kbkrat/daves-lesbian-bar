@@ -1,12 +1,8 @@
-# About
+About the oral history project
+The Dave’s Lesbian Bar Oral History is an oral history in progress for a lesbian bar in progress. I completed the first four interviews as part of my masters thesis in oral history. The major themes of queerness, Astoria, music, and mutual aid emerged from these interviews. I hope to keep interviewing queers in Astoria as pop-up events continue, as the bar opens in a brick and mortar space, and beyond. Are you an Astoria queer who wants to be interviewed or do you know an Astoria queer who should be interviewed for the oral history? Click on “Get Involved” on the site menu.
 
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet.
-Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum
-Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident.
-Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex
-occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat
-officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in
-Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non
-excepteur duis sunt velit enim.[ Voluptate laboris](http://nytimes.com) sint cupidatat ullamco ut
-ea consectetur et est culpa et culpa duis.
+About Dave’s Lesbian Bar
+Dave’s Lesbian Bar is a soon-to-be opened lesbian bar in Astoria, Queens. The bar began in 2021 as a monthly series of queer pop-up parties centered around queer music, art, life, and mutual aid. Find Dave’s on Instagram at [@daveslesbianbar](https://www.instagram.com/daveslesbianbar/).
+
+About the oral historian
+Kae Bara Kratcha is a white queer millennial who has lived in Astoria, Queens since 2015. They are a librarian both in their day job and in their general vibe. Kae enjoys sci-fi fantasy books, putting together outfits inspired by New York City parks and architecture, and going for long walks with headphones on. They do have cat pictures—just ask.
