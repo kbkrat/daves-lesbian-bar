@@ -2,4 +2,6 @@
 
 [insert audio player]
 
-[Listen on Spotify](link) [Listen on ApplePodcasts](link0
+[Listen on Spotify](link) [Listen on ApplePodcasts](link)
+
+## Transcript
