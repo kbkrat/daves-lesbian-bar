@@ -27,7 +27,7 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 ## Patricia
 
-[ insert audio player ](https://soundcloud.com/user-875048658/5-patricia-ahn-narrator-portrait/s-MMxRYG2fLb7?si=730b90f6b6594460bc7dff093bec8ddc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1505689369%3Fsecret_token%3Ds-MMxRYG2fLb7&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-875048658" title="kae bara kratcha" target="_blank" style="color: #cccccc; text-decoration: none;">kae bara kratcha</a> · <a href="https://soundcloud.com/user-875048658/5-patricia-ahn-narrator-portrait/s-MMxRYG2fLb7" title="Patricia Ahn Audio Portrait" target="_blank" style="color: #cccccc; text-decoration: none;">Patricia Ahn Audio Portrait</a></div>
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
