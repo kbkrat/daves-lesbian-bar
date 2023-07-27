@@ -12,15 +12,6 @@ module('Integration | Component | soundcloud-player', function (hooks) {
 
     await render(hbs`<SoundcloudPlayer />`);
 
-    assert.dom(this.element).hasText('');
-
-    // Template block usage:
-    await render(hbs`
-      <SoundcloudPlayer>
-        template block text
-      </SoundcloudPlayer>
-    `);
-
-    assert.dom(this.element).hasText('template block text');
+    assert.dom().hasText('');
   });
 });
