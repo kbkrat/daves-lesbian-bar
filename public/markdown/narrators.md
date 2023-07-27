@@ -3,7 +3,7 @@ Listen to each narrator introduce themselves through clips from their oral histo
 
 ## Sarose
 
-[ insert audio player ](https://soundcloud.com/user-875048658/3-sarose-klein-narrator-portrait/s-ot3YFt76T8w?si=f7cf6e84b9694dbfad41a38f8f039566&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1505688901%3Fsecret_token%3Ds-ot3YFt76T8w&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-875048658" title="kae bara kratcha" target="_blank" style="color: #cccccc; text-decoration: none;">kae bara kratcha</a> · <a href="https://soundcloud.com/user-875048658/3-sarose-klein-narrator-portrait/s-ot3YFt76T8w" title="Sarose Klein Audio Portrait" target="_blank" style="color: #cccccc; text-decoration: none;">Sarose Klein Audio Portrait</a></div>
 
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
