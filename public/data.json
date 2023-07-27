@@ -5,7 +5,12 @@
     "long": -73.90961,
     "location": "RIP Flattops",
     "address": "33-06 Ditmars Blvd",
-    "link": "https://www.dropbox.com/s/yy9649jp12wi2yl/Benham_Astoria%20is%20not%20cool.wav?dl=0"
+    "link": "https://www.dropbox.com/s/yy9649jp12wi2yl/Benham_Astoria%20is%20not%20cool.wav?dl=0",
+    "audio": {
+      "iframeUrl": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1366734937%3Fsecret_token%3Ds-D65rmlaltKq&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+      "postUrl": "https://soundcloud.com/user-875048658/benham-astoria-is-not-cool/s-D65rmlaltKq",
+      "title": "Benham - Astoria Is Not Cool"
+    }
   },
   {
     "title": "Heartbreakers missed connections - Kristin",
@@ -13,7 +18,12 @@
     "long": -73.915918,
     "location": "Bohemian Beer Hall",
     "address": "29-19 24th Ave, Queens, NY 11105",
-    "link": "https://www.dropbox.com/home/Kratcha_OHMA%20Thesis%20files_Feb2023/6.%20Map%20clips?preview=Kristin_hearbreakers+missed+connections.wav"
+    "link": "https://www.dropbox.com/home/Kratcha_OHMA%20Thesis%20files_Feb2023/6.%20Map%20clips?preview=Kristin_hearbreakers+missed+connections.wav",
+    "audio": {
+      "iframeUrl": "",
+      "postUrl": "",
+      "title": ""
+    }
   },
   {
     "title": "Heartbreakers Ball - Patricia",
@@ -21,7 +31,12 @@
     "long": -73.9157926,
     "location": "Bohemian Beer Hall",
     "address": "29-19 24th Ave, Queens, NY 11105",
-    "link": "https://www.dropbox.com/s/dm0sn2pfofve6sx/Patricia_Heartbreakers%20Ball.wav?dl=0"
+    "link": "https://www.dropbox.com/s/dm0sn2pfofve6sx/Patricia_Heartbreakers%20Ball.wav?dl=0",
+    "audio": {
+      "iframeUrl": "",
+      "postUrl": "",
+      "title": ""
+    }
   },
   {
     "title": "No ego events - Benham",
@@ -29,7 +44,12 @@
     "long": -73.921204,
     "location": "31st Ave Open Street",
     "address": "31st Avenue between 33rd and 35th Street",
-    "link": "https://www.dropbox.com/home/Kratcha_OHMA%20Thesis%20files_Feb2023/6.%20Map%20clips?preview=Benham_No+ego+events.wav"
+    "link": "https://www.dropbox.com/home/Kratcha_OHMA%20Thesis%20files_Feb2023/6.%20Map%20clips?preview=Benham_No+ego+events.wav",
+    "audio": {
+      "iframeUrl": "",
+      "postUrl": "",
+      "title": ""
+    }
   },
   {
     "title": "Melissa Ethridge concert - Sarose",
@@ -37,7 +57,12 @@
     "long": -73.9205439,
     "location": "Astoria Park",
     "address": "19 19th St, Astoria, NY 11105",
-    "link": "https://www.dropbox.com/s/sblx4jphe1sck1x/._Sarose_Melissa%20Ethridge%20concert.wav?dl=1"
+    "link": "https://www.dropbox.com/s/sblx4jphe1sck1x/._Sarose_Melissa%20Ethridge%20concert.wav?dl=1",
+    "audio": {
+      "iframeUrl": "",
+      "postUrl": "",
+      "title": ""
+    }
   },
   {
     "title": "New meaning of Astoria - Sarose",
@@ -45,6 +70,11 @@
     "long": -73.9134687,
     "location": "Astoria Food Pantry",
     "address": "25-82 Steinway St, Queens, NY 11103",
-    "link": "https://www.dropbox.com/s/bd3spubvtqie9gg/Sarose_New%20Meaning%20of%20Astoria.wav?dl=0"
+    "link": "https://www.dropbox.com/s/bd3spubvtqie9gg/Sarose_New%20Meaning%20of%20Astoria.wav?dl=0",
+    "audio": {
+      "iframeUrl": "",
+      "postUrl": "",
+      "title": ""
+    }
   }
 ]
