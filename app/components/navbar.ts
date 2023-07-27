@@ -11,10 +11,7 @@ export default class NavbarComponent extends Component {
         route: 'sound-journey',
         name: 'Sound Journey',
       },
-      {
-        route: 'sound-map',
-        name: 'Sound Map',
-      },
+  
       {
         route: 'about',
         name: 'About',
