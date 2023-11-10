@@ -8,3 +8,10 @@ Dave’s Lesbian Bar is a soon-to-be opened lesbian bar in Astoria, Queens. The 
 Kae Bara Kratcha is a white queer millennial who has lived in Astoria, Queens since 2015. They are a librarian both in their day job and in their general vibe. Kae enjoys sci-fi fantasy books, putting together outfits inspired by New York City parks and architecture, and going for long walks with headphones on. They do have cat pictures—just ask.
 
 ## Special thanks
+Thank you first and most of all to the Dave’s Oral History narrators so far: Patricia Ahn, Dave Dausch, Benham Jones, and Sarose Klein.
+
+Thank you to Carlin Zia, my thesis advisor, and big huge shoutout to my oral history thesis group: Han Powell, Tamara Santibañez, Ornella Baganizi, and Chalay Chalermkraivuth. Your work and conversation have shaped my work and thoughts. I’m so glad I got to thesis with you all.
+
+Thank you to my colleague Moacir P. de Sá Pereira and my dear friend Sam Flax for their big big help with this website, and double thanks to Sam for designing the QR code sticker that leads from the streets of Astoria to this spot on the internet.
+
+Finally, thank you to Ruben "RV" Dougherty, Jon Rooke, and Loa Beckenstein. You each know what you did. :)
