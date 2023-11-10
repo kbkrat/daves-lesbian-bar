@@ -32,3 +32,6 @@ Listen to each narrator introduce themselves through clips from their oral histo
 [Listen on Spotify]( link ) [Listen on Apple Podcasts]( link )
 
 [View transcript](https://docs.google.com/document/d/1QNqhmOZi87YR-vp4qDZniLaJlxCHPF3k/edit?usp=drive_link&ouid=103132126981237856483&rtpof=true&sd=true)
+
+## Want more audio?
+Try listening to the [Sound Journey](https://daveshistory.nyc/sound-journey) (ideally in the streets, parks, or homes of Astoria) or clicking around the [map clips](https://daveshistory.nyc/).
