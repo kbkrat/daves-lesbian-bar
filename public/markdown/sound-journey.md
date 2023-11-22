@@ -4,6 +4,7 @@
 [Listen on Spotify](link) [Listen on ApplePodcasts](link)
 
 ## Transcript
+[download the sound journey transcript]
 
 ## Citations and more resources
 
