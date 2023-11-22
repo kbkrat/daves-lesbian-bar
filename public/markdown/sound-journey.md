@@ -5,7 +5,7 @@
 
 ## Transcript
 
-## Citations and further reading
+## Citations and more resources
 
 ### The Stonewall reader edited by Baumann, J., White, E., & New York Public Library
 The Stonewall Reader is a compilation of short, readable excerpts from historical sources about Stonewall and the Stonewall Riots. This book is a good introduction to New York City queer history from many voices. Highly recommended by narrator Sarose Klein!
