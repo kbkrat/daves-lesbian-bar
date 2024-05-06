@@ -1,5 +1,9 @@
 # Sound Journey
 
+Hello and welcome to the first update from A Cute and Nice Oral History of Dave's Lesbian Bar. My name is Kae Bara Kratcha, and I'll be your host and oral historian. This update is meant as a way to share some thoughts, experiences, and stories from people involved in Dave's Lesbian Bar here in Astoria, Queens. I've been recording oral history interviews with the folks involved in Dave's since spring 2022, and I'm so excited to release some of that audio into the world now.
+
+This piece and all of the edited audio on this site was originally intended for release in May 2023, but life, covid, and the state of the world got in the way. I'm happy to be releasing it now in May 2024.
+
 Listen on SoundCloud:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1689512547%3Fsecret_token%3Ds-tpNs5ToGyGe&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
