@@ -4,7 +4,7 @@
 [Listen on Spotify](linkhttps://open.spotify.com/episode/40xYdUjIJ4rWBOAxSkwMPt?si=cp3QpLJdT1SVAqQIGfe50g)
 
 ## Transcript
-[view the sound journey transcript](https://www.dropbox.com/scl/fi/nbjtt041j1602u3qj6sew/Daves-Sound-Journey-Transcript-Spring-2024.pdf?rlkey=amituplj8x2qus5t363qlz6ga&dl=0)
+[view or download the sound journey transcript from Dropbox](https://www.dropbox.com/scl/fi/nbjtt041j1602u3qj6sew/Daves-Sound-Journey-Transcript-Spring-2024.pdf?rlkey=amituplj8x2qus5t363qlz6ga&dl=0)
 
 ## Citations and more resources
 
