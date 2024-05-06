@@ -22,9 +22,7 @@ The Stonewall Reader is a compilation of short, readable excerpts from historica
 ### A Queer New York : Geographies of Lesbians, Dykes, and Queers by Jen Jack Gieseking - [https://nyupress.org/9781479835737/a-queer-new-york/](https://nyupress.org/9781479835737/a-queer-new-york/)
 Through years of both archival and interview-based research about lesbians and queers in New York City, Gieseking argues that queer spatial construction is not a matter of “gayborhoods” but rather of constellations across the city. He proposes that neighborhood-based conceptions of queers space are inherently colonial and capitalist since they are based on access to property. I haven't read this deeply yet, but I think this will inform my thinking as I continue working on the Dave's oral history.
 
-### "Black Trans People Have Been Modeling Mutual Aid Before It Became a Buzzword" by Bailey on Autostraddle
-https://www.autostraddle.com/black-trans-people-have-been-modeling-mutual-aid-before-it-became-a-bu
-zzword/
+### "Black Trans People Have Been Modeling Mutual Aid Before It Became a Buzzword" by Bailey on Autostraddle - [https://www.autostraddle.com/black-trans-people-have-been-modeling-mutual-aid-before-it-became-a-buzzword/](https://www.autostraddle.com/black-trans-people-have-been-modeling-mutual-aid-before-it-became-a-buzzword/)
 A short reported piece on how Black trans people have been engaging in mutual aid strategies both historically and in recent history and why.
 
 ### More oral history projects to explore
