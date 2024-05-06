@@ -1,7 +1,8 @@
 # Sound Journey
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1689512547%3Fsecret_token%3Ds-tpNs5ToGyGe&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-[Listen on Spotify](link) [Listen on ApplePodcasts](link)
+[Listen on Spotify]([link](https://open.spotify.com/episode/40xYdUjIJ4rWBOAxSkwMPt?si=cp3QpLJdT1SVAqQIGfe50g
+))
 
 ## Transcript
 [view the sound journey transcript](https://www.dropbox.com/scl/fi/nbjtt041j1602u3qj6sew/Daves-Sound-Journey-Transcript-Spring-2024.pdf?rlkey=amituplj8x2qus5t363qlz6ga&dl=0)
