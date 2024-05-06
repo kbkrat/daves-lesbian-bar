@@ -1,6 +1,9 @@
 # Sound Journey
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1689512547%3Fsecret_token%3Ds-tpNs5ToGyGe&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/40xYdUjIJ4rWBOAxSkwMPt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [Listen on Spotify](linkhttps://open.spotify.com/episode/40xYdUjIJ4rWBOAxSkwMPt?si=cp3QpLJdT1SVAqQIGfe50g)
 
 ## Transcript
