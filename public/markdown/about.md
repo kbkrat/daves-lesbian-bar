@@ -1,5 +1,7 @@
 ## About the oral history project
-The Dave’s Lesbian Bar Oral History is an oral history in progress for a lesbian bar in progress. Major themes include queerness, Astoria, music, and mutual aid. Kae hopes to keep interviewing queers in Astoria as pop-up events continue, as the bar opens in a brick and mortar space, and beyond. Are you an Astoria queer who wants to be interviewed or do you know an Astoria queer who should be interviewed for the oral history? Click on [“Get Involved”](https://daveshistory.nyc/get-involved) on the site menu. Kae completed the first four interviews as part of their masters thesis in oral history.
+The Dave’s Lesbian Bar Oral History is an oral history in progress for a lesbian bar in progress. Major themes include queerness, Astoria, music, and mutual aid. Kae hopes to keep interviewing queers in Astoria as pop-up events continue, as the bar opens in a brick and mortar space, and beyond. Are you an Astoria queer who wants to be interviewed or do you know an Astoria queer who should be interviewed for the oral history? Click on [“Get Involved”](https://daveshistory.nyc/get-involved) on the site menu. Kae completed these interviews as part of their masters thesis in oral history.
+
+The edited audio on this website was originally intended for release in May 2023, but life, covid, and the state of the world got in the way. I'm happy to be releasing it now in May 2024!
 
 ## About Dave’s Lesbian Bar
 Dave’s Lesbian Bar is a soon-to-be opened lesbian bar in Astoria, Queens. The bar began in 2021 as a monthly series of queer pop-up parties centered around queer music, art, life, and mutual aid. Find Dave’s on Instagram at [@daveslesbianbar](https://www.instagram.com/daveslesbianbar/).
