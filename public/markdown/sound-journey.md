@@ -1,6 +1,6 @@
 # Sound Journey
 
-Hello and welcome to the first update from A Cute and Nice Oral History of Dave's Lesbian Bar. My name is Kae Bara Kratcha, and I'll be your host and oral historian. This update is meant as a way to share some thoughts, experiences, and stories from people involved in Dave's Lesbian Bar here in Astoria, Queens. I hope you will listen to it while experiencing Astoria in some way, whether that means taking a walk around the neighborhood, looking out your window, or however else you like to take up space in our streets, parks, and homes.
+Hello and welcome to the first update from A Cute and Nice Oral History of Dave's Lesbian Bar. This update is meant as a way to share some thoughts, experiences, and stories from people involved in Dave's Lesbian Bar here in Astoria, Queens. I hope you will listen to it while experiencing Astoria in some way, whether that means taking a walk around the neighborhood, looking out your window, or however else you like to take up space in our streets, parks, and homes.
 
 This piece and all of the edited audio on this site was originally intended for release in May 2023, but life, covid, and the state of the world got in the way. I'm happy to be releasing it now in May 2024.
 
